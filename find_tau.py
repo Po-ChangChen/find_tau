@@ -123,11 +123,3 @@ plt.plot(tau_domain, M_p(tau_domain, true_pars[0], true_pars[1]), 'red')
 plt.plot(tau_domain, M_m(tau_domain, true_pars[0], true_pars[1]), 'blue')
 plt.xscale('log')
 plt.show()
-
-
-
-
-
-'''
-
-'''
